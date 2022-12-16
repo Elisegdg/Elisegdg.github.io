@@ -428,6 +428,24 @@ footer{
 
 @media (max-width:450px)  { }
 
+/* Home */
+
+#home-img {
+	display: none;
+}
+
+.home-title {
+	font-size:10vw;
+	font-family: ttChocolatesLight;
+	padding: 0;
+	margin: 0;
+}
+
+#home-subtitle {
+	font-size: 4vw;
+	margin-left: 3%;
+}
+
 @media (max-width:850px)  { 
 	/* smartphones, iPhone, portrait 480x320 phones */ 
 
@@ -435,6 +453,18 @@ footer{
 
 	#home-img {
 		display: none;
+	}
+
+	.home-title {
+		font-size:10vw;
+		font-family: ttChocolatesLight;
+		padding: 0;
+		margin: 0;
+	}
+	
+	#home-subtitle {
+		font-size: 4vw;
+		margin-left: 3%;
 	}
 
 	/* About */
