@@ -426,7 +426,9 @@ footer{
 
 /* Responsive */
 
-@media (max-width:600px)  { 
+@media (max-width:450px)  { }
+
+@media (max-width:850px)  { 
 	/* smartphones, iPhone, portrait 480x320 phones */ 
 
 	/* Home */
@@ -501,7 +503,7 @@ footer{
 	/* Contact */
 
 }
-@media (max-width:1100px)  { 
+@media (max-width:1050px)  { 
 	/* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
 	
 	/* Menu */
