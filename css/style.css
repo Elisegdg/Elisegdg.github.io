@@ -447,27 +447,28 @@ footer{
 }
 
 /* About */
-/*#about {
+#about {
 	height: 185vh;
 }
 
 .cube {
-	height: 30vh;
-	width: 40vw;
+	height: 10vh;
+	width: 30vw;
 }
 
 
 #cube1 {
-	margin-left: -30%;
+	margin-left: -100%;
 }
 
 #cube2 {
-	margin-right: -60%;
+	margin-right: -100%;
 }
 
 #cube3 {
-	margin-left: -60%;
+	margin-left: -100%;
 }
+
 
 .about-text{
 	width: 35vw;
@@ -491,7 +492,7 @@ footer{
 
 .formation-part {
 	margin-top: 5vh;
-}*/
+}
 
 }
 
@@ -528,15 +529,15 @@ footer{
 
 	
 	#cube1 {
-		margin-left: -80%;
+		margin-left: -100%;
 	}
 	
 	#cube2 {
-		margin-right: -60%;
+		margin-right: -100%;
 	}
 	
 	#cube3 {
-		margin-left: -60%;
+		margin-left: -100%;
 	}
 	
 	.about-text{
@@ -568,7 +569,7 @@ footer{
 	
 	.project-case {
 		height: 30vh;
-		width: 25vw;
+		width: 40vw;
 		background-color:#F0EFEB;
 		border-radius: 20px;
 	
@@ -582,7 +583,7 @@ footer{
 	/* Contact */
 
 }
-@media (max-width:1100px)  { 
+@media (max-width:1200px)  { 
 	/* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
 	
 	/* Menu */
