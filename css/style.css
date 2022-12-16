@@ -440,7 +440,7 @@ footer{
 
 /* About */
 #about {
-	height: 185vh;
+	height: 200vh;
 }
 
 .cube {
@@ -450,35 +450,33 @@ footer{
 
 
 #cube1 {
-	margin-left: -60%;
+	margin-left: -50%;
 }
 
 #cube2 {
-	margin-right: -60%;
+	margin-right: -50%;
 }
 
 #cube3 {
-	margin-left: -60%;
+	margin-left: -50%;
 }
 
 .about-text{
-	width: 35vw;
+	margin-bottom: 40%;
+	width: 80vw;
 	color: #F0EFEB;
 }
 
 #about-text1{
-	margin-right: -100%;
 	opacity: 0;
 }
 
 #about-text2{
-	margin-left: -100%;
 	opacity: 0;
 }
 
 #about-text3{
-	margin-right: -100%;
-	opacity: 0;
+		opacity: 0;
 }
 
 
@@ -490,6 +488,7 @@ footer{
 /* Projects */
 
 #works-title {
+margin-top: 30vh;
 font-size: 200%;
 color:#F0EFEB;
 }
@@ -590,6 +589,8 @@ font-size: 5vw;
 	}
 	
 	.about-text{
+		margin: 10%;
+
 		width: 35vw;
 		color: #F0EFEB;
 	}
