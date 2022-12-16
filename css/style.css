@@ -302,10 +302,13 @@ a{
 	width: 25vw;
 	background-color:#F0EFEB;
 	border-radius: 20px;
-
 	display: flex;
 	justify-content: center;
 
+}
+
+.works-img {
+	width: 25vw;
 }
 
 #thumbnails-container {
